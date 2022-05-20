@@ -1,0 +1,19 @@
+{
+  "name": "travelwhishlist",
+  "version": "1.0.0",
+  "description": "For this exercise, I will build a simple application where I will store a list of countries I  wish to go to! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehtap123/TravelWhishlist.git"
+  },
+  "author": "Mehtap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehtap123/TravelWhishlist/issues"
+  },
+  "homepage": "https://github.com/Mehtap123/TravelWhishlist#readme"
+}
