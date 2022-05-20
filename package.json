@@ -4,7 +4,7 @@
   "description": "For this exercise, I will build a simple application where I will store a list of countries I  wish to go to! ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.ja"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mehtap123/TravelWhishlist/issues"
   },
-  "homepage": "https://github.com/Mehtap123/TravelWhishlist#readme"
+  "homepage": "https://github.com/Mehtap123/TravelWhishlist#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
