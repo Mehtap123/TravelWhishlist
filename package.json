@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "For this exercise, I will build a simple application where I will store a list of countries I  wish to go to! ",
   "main": "index.js",
+  "type" : "module",
   "scripts": {
     "start": "node index.ja"
   },
